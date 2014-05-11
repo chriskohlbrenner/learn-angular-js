@@ -1,0 +1,3 @@
+ - initialize angular app using "ng-app" directive (looks liek html attribute)
+ - what's a binding? Anything in {{}}?
+    - "Data-binding is an automatic way of updating the view whenever the model changes, as well as updating the model whenever the view changes. This is awesome because it eliminates DOM manipulation from the list of things you have to worry about." (https://angularjs.org/)
